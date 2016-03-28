@@ -1,0 +1,646 @@
+AM General Truck (Incl. SUV's)
+1984 - 1983; 2.5L 150 (2464cc) OHV L4 (8 Valve), 98.42mm Bore 3.875" Bore; 1 Bbl.; Gasoline; Naturally 
+Aspirated AMC Eng.; VIN Code U
+Cam Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 1244M
+1 1 2686DR 
+51.549/51.575
+2.0295/2.0305
+54.75/54.775
+2.1555/2.1565
+0.013/0.076
+0.0005/0.003
+1.575
+0.062
+17.53
+0.69
+2 1 2687DR 
+51.295/51.321
+2.0195/2.0205
+54.496/54.521
+2.1455/2.1465
+0.013/0.076
+0.0005/0.003
+1.575
+0.062
+17.53
+0.69
+3 1 2688DR 
+51.041/51.067
+2.0095/2.0105
+54.242/54.267
+2.1355/2.1365
+0.013/0.076
+0.0005/0.003
+1.575
+0.062
+17.53
+0.69
+4 1 2689DR 
+50.787/50.813
+1.9995/2.0005
+53.988/54.013
+2.1255/2.1265
+0.013/0.076
+0.0005/0.003
+1.575
+0.062
+17.53
+0.69
+Main Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 6676M
+1-3-4-5 4 2686CP 
+63.49/63.487
+2.4996/2.5001
+68.351/68.377
+2.691/2.692
+0.018/0.081
+0.0007/0.0032
+2.421
+0.0953
+25.04
+0.986
+2 1 2687CP 
+63.49/63.487
+2.4996/2.5001
+68.351/68.377
+2.691/2.692
+0.018/0.081
+0.0007/0.0032
+2.421
+0.0953
+32.26
+1.27 Flange 
+Bearing
+Rod Pair
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 3310CPA
+53.208/53.226
+2.0948/2.0955
+56.083/56.096
+2.208/2.2085
+0.013/0.069
+0.0005/0.0027
+1.422
+0.056
+21.26
+0.837
+Rod Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 4-3310CPA
+53.208/53.226
+2.0948/2.0955
+56.083/56.096
+2.208/2.2085
+0.013/0.069
+0.0005/0.0027
+1.422
+0.056
+21.26
+0.837
+1983 - 1980; 2.5L 151 (2475cc) OHV L4 (8 Valve), 101.6mm Bore 4" Bore; 2 Bbl.; Gasoline; Naturally 
+Aspirated GMC Eng.; Pontiac; VIN Code B
+Cam Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 1461M
+1-2-3 3 2288DR 
+47.452/47.478
+1.8682/1.8692
+50.775/50.825
+1.999/2.001
+0.025/0.132
+0.001/0.0052
+1.636
+0.0644
+21.97
+0.865
+Main Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 6689MA
+1-2-3-4 4 1053RA 
+58.377/58.402
+2.2983/2.2993
+63.261/63.287
+2.4906/2.4916
+0.013/0.074
+0.0005/0.0029
+2.426
+0.0955
+20.5
+0.807
+5 1 2558RA 
+58.123/58.402
+2.2883/2.2993
+63.261/63.287
+2.4906/2.4916
+0.013/0.074
+0.0005/0.0029
+2.426
+0.0955
+25.63
+1.006/1.009 Flange 
+Bearing
+Rod Pair
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 2500RAA
+50.787/50.813
+1.9995/2.0005
+53.967/53.98
+2.1247/2.1252
+0.013/0.071
+0.0005/0.0028
+1.575
+0.062
+18.85
+0.742
+Images refer to website: www.FMe-Cat.com 2
+©2010 Federal-Mogul Corp. All rights reserved. 
+Sealed Power® is a registered trademark of Federal-Mogul Corporation. AM General Truck (Incl. SUV's)
+1983 - 1980; 2.5L 151 (2475cc) OHV L4 (8 Valve), 101.6mm Bore 4" Bore; 2 Bbl.; Gasoline; Naturally 
+Aspirated GMC Eng.; Pontiac; VIN Code B
+Rod Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 4-2500RAA
+50.787/50.813
+1.9995/2.0005
+53.967/53.98
+2.1247/2.1252
+0.013/0.058
+0.0005/0.0023
+1.575
+0.062
+18.85
+0.742
+0 4-2500RAA 10X2
+50.533/50.559
+1.9895/1.9905
+54.018/54.031
+2.1267/2.1272
+0.013/0.058
+0.0005/0.0023
+1.727
+0.068
+18.85
+0.742
+ 4 2500RAA 
+10X2 50.787/50.813
+1.9995/2.0005
+53.967/53.980
+2.1247/2.1252
+0.013/0.071
+.0005/.0028
+1.575
+0.0620
+1997 - 1996; 5.7L 350 (5736cc) OHV V8 (16 Valve), 101.6mm Bore 4" Bore; CPI; Gasoline; Naturally 
+Aspirated GMC Eng.; Chevrolet; VIN Code D
+Cam Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 1235M
+1 1 2021DR 
+47.452/47.478
+1.8682/1.8692
+51.283/51.333
+2.019/2.021
+0.018/0.109
+0.0007/0.0043
+1.89
+0.0744
+18.8
+0.74
+2-5 2 2022DR 
+47.452/47.478
+1.8682/1.8692
+51.029/51.079
+2.009/2.011
+0.025/0.132
+0.001/0.0052
+1.763
+0.0694
+18.92
+0.745
+3-4 2 2023DR 
+47.452/47.478
+1.8682/1.8692
+50.775/50.825
+1.999/2.001
+0.018/0.109
+0.0007/0.0043
+1.636
+0.0644
+18.8
+0.74
+0 1749M
+1 1 3201DRC 
+47.452/47.478
+1.8682/1.8692
+51.283/51.333
+2.019/2.021
+0.02/0.147
+0.0008/0.0058
+1.918
+0.0755
+18.8
+0.74
+2-5 2 3202DRC 
+47.401/47.478
+1.8662/1.8692
+51.029/51.079
+2.009/2.011
+0.02/0.147
+0.0008/0.0058
+1.791
+0.0705
+18.8
+0.74
+3-4 2 3203DRC 
+47.452
+1.8682/1.8692
+50.775/50.825
+1.999/2.001
+0.02
+0.0008/0.0058
+1.664
+0.0655
+18.8
+0.74
+Main Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 4663M
+1-2-3-4 4 3201CP 
+62.189/62.212
+2.4484/2.4493
+67.071/67.094
+2.6406/2.6415
+0.013/0.074
+0.0005/0.0029
+2.428
+0.0956
+20.5
+0.807
+5 1 3202CPB 
+62.177/62.2
+2.4479/2.4488
+67.071/67.094
+2.6406/2.6415
+0.015/0.076
+0.0006/0.003
+2.428
+0.0956
+43.663
+1.719 Flange 
+Bearing
+0 4663MA
+1-2-3-4 4 3201RA 
+62.189/62.212
+2.4484/2.4493
+67.071/67.094
+2.6406/2.6415
+0.013/0.074
+0.0005/0.0029
+2.423
+0.0954
+20.5
+0.807
+5 1 3202RAB 
+62.177/62.2
+2.4479/2.4488
+67.071/67.094
+2.6406/2.6415
+0.015/0.076
+0.0006/0.003
+2.428
+0.0956
+43.663
+1.719 Flange 
+Bearing
+Rod Pair
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 2555A
+53.315/53.34
+2.099/2.1
+56.507/56.52
+2.2247/2.2252
+0.013/0.071
+0.0005/0.0028
+1.58
+0.0622
+21.39
+0.842
+0 2555CA 60
+3 Images refer to website: www.FMe-Cat.com
+©2010 Federal-Mogul Corp. All rights reserved. 
+Sealed Power® is a registered trademark of Federal-Mogul Corporation. AM General Truck (Incl. SUV's)
+1997 - 1996; 5.7L 350 (5736cc) OHV V8 (16 Valve), 101.6mm Bore 4" Bore; CPI; Gasoline; Naturally 
+Aspirated GMC Eng.; Chevrolet; VIN Code D
+Rod Pair
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 2555CP
+53.315/53.34
+2.099/2.1
+56.507/56.52
+2.2247/2.2252
+0.013/0.071
+0.0005/0.0028
+1.58
+0.0622
+21.39
+0.842
+Rod Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 8-2555A
+53.315/53.34
+2.099/2.1
+56.507/56.52
+2.2247/2.2252
+0.013/0.071
+0.0005/0.0028
+1.58
+0.0622
+21.39
+0.842
+0 8-2555CA 60
+0 8-2555CP
+53.315/53.34
+2.099/2.1
+56.507/56.52
+2.2247/2.2252
+0.013/0.071
+0.0005/0.0028
+1.58
+0.0622
+21.39
+0.842
+1995; 5.7L 350 (5736cc) OHV V8 (16 Valve), 101.6mm Bore 4" Bore; TBI; Gasoline; Naturally Aspirated GMC 
+Eng.; Chevrolet; VIN Code D
+Cam Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 1235M
+1 1 2021DR 
+47.452/47.478
+1.8682/1.8692
+51.283/51.333
+2.019/2.021
+0.018/0.109
+0.0007/0.0043
+1.89
+0.0744
+18.8
+0.74
+2-5 2 2022DR 
+47.452/47.478
+1.8682/1.8692
+51.029/51.079
+2.009/2.011
+0.025/0.132
+0.001/0.0052
+1.763
+0.0694
+18.92
+0.745
+3-4 2 2023DR 
+47.452/47.478
+1.8682/1.8692
+50.775/50.825
+1.999/2.001
+0.018/0.109
+0.0007/0.0043
+1.636
+0.0644
+18.8
+0.74
+0 1749M
+1 1 3201DRC 
+47.452/47.478
+1.8682/1.8692
+51.283/51.333
+2.019/2.021
+0.02/0.147
+0.0008/0.0058
+1.918
+0.0755
+18.8
+0.74
+2-5 2 3202DRC 
+47.401/47.478
+1.8662/1.8692
+51.029/51.079
+2.009/2.011
+0.02/0.147
+0.0008/0.0058
+1.791
+0.0705
+18.8
+0.74
+3-4 2 3203DRC 
+47.452
+1.8682/1.8692
+50.775/50.825
+1.999/2.001
+0.02
+0.0008/0.0058
+1.664
+0.0655
+18.8
+0.74
+Main Set
+Product 
+Position Qty Part No Standard 
+Shaft Size
+Housing 
+Bore
+Oil 
+Clearance
+Max Wall 
+Thickness
+Overall 
+Length Note
+0 4663M
+1-2-3-4 4 3201CP 
+62.189/62.212
+2.4484/2.4493
+67.071/67.094
+2.6406/2.6415
+0.013/0.074
+0.0005/0.0029
+2.428
+0.0956
+20.5
+0.807
+5 1 3202CPB 
+62.177/62.2
+2.4479/2.4488
+67.071/67.094
+2.6406/2.6415
+0.015/0.076
+0.0006/0.003
+2.428
+0.0956
+43.663
+1.719 Flange 
+Bearing
+0 4663MA
+1-2-3-4 4 3201RA 
+62.189/62.212
+2.4484/2.4493
+67.071/67.094
+2.6406/2.6415
+0.013/0.074
+0.0005/0.0029
+2.423
+0.0954
+20.5
+0.807
+5 1 3202RAB 
+62.177/62.2
+2.4479/2.4488
+67.071/67.094
+2.6406/2.6415
+0.015/0.076
+0.0006/0.003
+2.428
+0.0956
+43.663
+1.719 Flange 
+Bearing

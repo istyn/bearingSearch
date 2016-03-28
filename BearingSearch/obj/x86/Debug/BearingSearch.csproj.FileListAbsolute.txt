@@ -1,0 +1,6 @@
+C:\Users\Isaac\documents\visual studio 2010\Projects\BearingSearch\BearingSearch\bin\Debug\BearingSearch.exe.config
+C:\Users\Isaac\documents\visual studio 2010\Projects\BearingSearch\BearingSearch\bin\Debug\BearingSearch.exe
+C:\Users\Isaac\documents\visual studio 2010\Projects\BearingSearch\BearingSearch\bin\Debug\BearingSearch.pdb
+C:\Users\Isaac\documents\visual studio 2010\Projects\BearingSearch\BearingSearch\obj\x86\Debug\BearingSearch.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\documents\visual studio 2010\Projects\BearingSearch\BearingSearch\obj\x86\Debug\BearingSearch.exe
+C:\Users\Isaac\documents\visual studio 2010\Projects\BearingSearch\BearingSearch\obj\x86\Debug\BearingSearch.pdb

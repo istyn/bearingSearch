@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_MyDatabase_1BearingList" targetNamespace="http://tempuri.org/_MyDatabase_1BearingList.xsd" xmlns:mstns="http://tempuri.org/_MyDatabase_1BearingList.xsd" xmlns="http://tempuri.org/_MyDatabase_1BearingList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MyDatabase_1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MyDatabase_1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.BearingSearch.Properties.Settings.GlobalReference.Default.MyDatabase_1ConnectionString" Provider="Microsoft.SqlServerCe.Client.3.5" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_MyDatabase_1BearingList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_MyDatabase_1BearingList" msprop:Generator_UserDSName="_MyDatabase_1BearingList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Price" msprop:Generator_TableClassName="PriceDataTable" msprop:Generator_TableVarName="tablePrice" msprop:Generator_RowChangedName="PriceRowChanged" msprop:Generator_TablePropName="Price" msprop:Generator_RowDeletingName="PriceRowDeleting" msprop:Generator_RowChangingName="PriceRowChanging" msprop:Generator_RowEvHandlerName="PriceRowChangeEventHandler" msprop:Generator_RowDeletedName="PriceRowDeleted" msprop:Generator_RowClassName="PriceRow" msprop:Generator_UserTableName="Price" msprop:Generator_RowEvArgName="PriceRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="categoryID" msprop:Generator_ColumnVarNameInTable="columncategoryID" msprop:Generator_ColumnPropNameInRow="categoryID" msprop:Generator_ColumnPropNameInTable="categoryIDColumn" msprop:Generator_UserColumnName="categoryID" type="xs:string" />
+              <xs:element name="partNo" msprop:Generator_ColumnVarNameInTable="columnpartNo" msprop:Generator_ColumnPropNameInRow="partNo" msprop:Generator_ColumnPropNameInTable="partNoColumn" msprop:Generator_UserColumnName="partNo" type="xs:string" minOccurs="0" />
+              <xs:element name="linCode" msprop:Generator_ColumnVarNameInTable="columnlinCode" msprop:Generator_ColumnPropNameInRow="linCode" msprop:Generator_ColumnPropNameInTable="linCodeColumn" msprop:Generator_UserColumnName="linCode" type="xs:string" minOccurs="0" />
+              <xs:element name="subLine" msprop:Generator_ColumnVarNameInTable="columnsubLine" msprop:Generator_ColumnPropNameInRow="subLine" msprop:Generator_ColumnPropNameInTable="subLineColumn" msprop:Generator_UserColumnName="subLine" type="xs:string" minOccurs="0" />
+              <xs:element name="cost" msprop:Generator_ColumnVarNameInTable="columncost" msprop:Generator_ColumnPropNameInRow="cost" msprop:Generator_ColumnPropNameInTable="costColumn" msprop:Generator_UserColumnName="cost" type="xs:string" minOccurs="0" />
+              <xs:element name="costJ" msprop:Generator_ColumnVarNameInTable="columncostJ" msprop:Generator_ColumnPropNameInRow="costJ" msprop:Generator_ColumnPropNameInTable="costJColumn" msprop:Generator_UserColumnName="costJ" type="xs:string" minOccurs="0" />
+              <xs:element name="core" msprop:Generator_ColumnVarNameInTable="columncore" msprop:Generator_ColumnPropNameInRow="core" msprop:Generator_ColumnPropNameInTable="coreColumn" msprop:Generator_UserColumnName="core" type="xs:string" minOccurs="0" />
+              <xs:element name="coreJ" msprop:Generator_ColumnVarNameInTable="columncoreJ" msprop:Generator_ColumnPropNameInRow="coreJ" msprop:Generator_ColumnPropNameInTable="coreJColumn" msprop:Generator_UserColumnName="coreJ" type="xs:string" minOccurs="0" />
+              <xs:element name="prca" msprop:Generator_ColumnVarNameInTable="columnprca" msprop:Generator_ColumnPropNameInRow="prca" msprop:Generator_ColumnPropNameInTable="prcaColumn" msprop:Generator_UserColumnName="prca" type="xs:string" minOccurs="0" />
+              <xs:element name="prcb" msprop:Generator_ColumnVarNameInTable="columnprcb" msprop:Generator_ColumnPropNameInRow="prcb" msprop:Generator_ColumnPropNameInTable="prcbColumn" msprop:Generator_UserColumnName="prcb" type="xs:string" minOccurs="0" />
+              <xs:element name="prcc" msprop:Generator_ColumnVarNameInTable="columnprcc" msprop:Generator_ColumnPropNameInRow="prcc" msprop:Generator_ColumnPropNameInTable="prccColumn" msprop:Generator_UserColumnName="prcc" type="xs:string" minOccurs="0" />
+              <xs:element name="prcd" msprop:Generator_ColumnVarNameInTable="columnprcd" msprop:Generator_ColumnPropNameInRow="prcd" msprop:Generator_ColumnPropNameInTable="prcdColumn" msprop:Generator_UserColumnName="prcd" type="xs:string" minOccurs="0" />
+              <xs:element name="prce" msprop:Generator_ColumnVarNameInTable="columnprce" msprop:Generator_ColumnPropNameInRow="prce" msprop:Generator_ColumnPropNameInTable="prceColumn" msprop:Generator_UserColumnName="prce" type="xs:string" minOccurs="0" />
+              <xs:element name="prcf" msprop:Generator_ColumnVarNameInTable="columnprcf" msprop:Generator_ColumnPropNameInRow="prcf" msprop:Generator_ColumnPropNameInTable="prcfColumn" msprop:Generator_UserColumnName="prcf" type="xs:string" minOccurs="0" />
+              <xs:element name="prcg" msprop:Generator_ColumnVarNameInTable="columnprcg" msprop:Generator_ColumnPropNameInRow="prcg" msprop:Generator_ColumnPropNameInTable="prcgColumn" msprop:Generator_UserColumnName="prcg" type="xs:string" minOccurs="0" />
+              <xs:element name="desc" msprop:Generator_ColumnVarNameInTable="columndesc" msprop:Generator_ColumnPropNameInRow="desc" msprop:Generator_ColumnPropNameInTable="descColumn" msprop:Generator_UserColumnName="desc" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Bearing" msprop:Generator_TableClassName="BearingDataTable" msprop:Generator_TableVarName="tableBearing" msprop:Generator_RowChangedName="BearingRowChanged" msprop:Generator_TablePropName="Bearing" msprop:Generator_RowDeletingName="BearingRowDeleting" msprop:Generator_RowChangingName="BearingRowChanging" msprop:Generator_RowEvHandlerName="BearingRowChangeEventHandler" msprop:Generator_RowDeletedName="BearingRowDeleted" msprop:Generator_RowClassName="BearingRow" msprop:Generator_UserTableName="Bearing" msprop:Generator_RowEvArgName="BearingRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StandardShaftSizeMin" msprop:Generator_ColumnVarNameInTable="columnStandardShaftSizeMin" msprop:Generator_ColumnPropNameInRow="StandardShaftSizeMin" msprop:Generator_ColumnPropNameInTable="StandardShaftSizeMinColumn" msprop:Generator_UserColumnName="StandardShaftSizeMin" type="xs:string" minOccurs="0" />
+              <xs:element name="StandardShaftSizeMax" msprop:Generator_ColumnVarNameInTable="columnStandardShaftSizeMax" msprop:Generator_ColumnPropNameInRow="StandardShaftSizeMax" msprop:Generator_ColumnPropNameInTable="StandardShaftSizeMaxColumn" msprop:Generator_UserColumnName="StandardShaftSizeMax" type="xs:string" minOccurs="0" />
+              <xs:element name="HousingBoreMin" msprop:Generator_ColumnVarNameInTable="columnHousingBoreMin" msprop:Generator_ColumnPropNameInRow="HousingBoreMin" msprop:Generator_ColumnPropNameInTable="HousingBoreMinColumn" msprop:Generator_UserColumnName="HousingBoreMin" type="xs:string" minOccurs="0" />
+              <xs:element name="HousingBoreMax" msprop:Generator_ColumnVarNameInTable="columnHousingBoreMax" msprop:Generator_ColumnPropNameInRow="HousingBoreMax" msprop:Generator_ColumnPropNameInTable="HousingBoreMaxColumn" msprop:Generator_UserColumnName="HousingBoreMax" type="xs:string" minOccurs="0" />
+              <xs:element name="OilClearanceMin" msprop:Generator_ColumnVarNameInTable="columnOilClearanceMin" msprop:Generator_ColumnPropNameInRow="OilClearanceMin" msprop:Generator_ColumnPropNameInTable="OilClearanceMinColumn" msprop:Generator_UserColumnName="OilClearanceMin" type="xs:string" minOccurs="0" />
+              <xs:element name="OilClearanceMax" msprop:Generator_ColumnVarNameInTable="columnOilClearanceMax" msprop:Generator_ColumnPropNameInRow="OilClearanceMax" msprop:Generator_ColumnPropNameInTable="OilClearanceMaxColumn" msprop:Generator_UserColumnName="OilClearanceMax" type="xs:string" />
+              <xs:element name="MaxWallThickness" msprop:Generator_ColumnVarNameInTable="columnMaxWallThickness" msprop:Generator_ColumnPropNameInRow="MaxWallThickness" msprop:Generator_ColumnPropNameInTable="MaxWallThicknessColumn" msprop:Generator_UserColumnName="MaxWallThickness" type="xs:string" minOccurs="0" />
+              <xs:element name="OverallLength" msprop:Generator_ColumnVarNameInTable="columnOverallLength" msprop:Generator_ColumnPropNameInRow="OverallLength" msprop:Generator_ColumnPropNameInTable="OverallLengthColumn" msprop:Generator_UserColumnName="OverallLength" type="xs:string" minOccurs="0" />
+              <xs:element name="Note" msprop:Generator_ColumnVarNameInTable="columnNote" msprop:Generator_ColumnPropNameInRow="Note" msprop:Generator_ColumnPropNameInTable="NoteColumn" msprop:Generator_UserColumnName="Note" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Parts" msprop:Generator_TableClassName="PartsDataTable" msprop:Generator_TableVarName="tableParts" msprop:Generator_RowChangedName="PartsRowChanged" msprop:Generator_TablePropName="Parts" msprop:Generator_RowDeletingName="PartsRowDeleting" msprop:Generator_RowChangingName="PartsRowChanging" msprop:Generator_RowEvHandlerName="PartsRowChangeEventHandler" msprop:Generator_RowDeletedName="PartsRowDeleted" msprop:Generator_RowClassName="PartsRow" msprop:Generator_UserTableName="Parts" msprop:Generator_RowEvArgName="PartsRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="QOH" msprop:Generator_ColumnVarNameInTable="columnQOH" msprop:Generator_ColumnPropNameInRow="QOH" msprop:Generator_ColumnPropNameInTable="QOHColumn" msprop:Generator_UserColumnName="QOH" type="xs:string" minOccurs="0" />
+              <xs:element name="QOO" msprop:Generator_ColumnVarNameInTable="columnQOO" msprop:Generator_ColumnPropNameInRow="QOO" msprop:Generator_ColumnPropNameInTable="QOOColumn" msprop:Generator_UserColumnName="QOO" type="xs:string" minOccurs="0" />
+              <xs:element name="OT" msprop:Generator_ColumnVarNameInTable="columnOT" msprop:Generator_ColumnPropNameInRow="OT" msprop:Generator_ColumnPropNameInTable="OTColumn" msprop:Generator_UserColumnName="OT" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DataTable1Key1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Price" />
+      <xs:field xpath="mstns:categoryID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Price_Seal" msdata:parent="Price" msdata:child="Bearing" msdata:parentkey="categoryID" msdata:childkey="OilClearanceMax" msprop:Generator_UserChildTable="Bearing" msprop:Generator_ChildPropName="GetBearingRows" msprop:Generator_UserRelationName="Price_Seal" msprop:Generator_RelationVarName="relationPrice_Seal" msprop:Generator_UserParentTable="Price" msprop:Generator_ParentPropName="PriceRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
